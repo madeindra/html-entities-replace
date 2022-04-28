@@ -4,6 +4,10 @@
 	"description": "Replace html entities in your files ",
 	"version": "0.0.1",
 	"publisher": "madeindra",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/madeindra/html-entities-replace.git"
+	},
 	"engines": {
 		"vscode": "^1.66.0"
 	},
